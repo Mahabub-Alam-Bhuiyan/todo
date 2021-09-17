@@ -113,12 +113,6 @@ function editupdate(index){
          editupdate,
          todoedit,
 
-
-
-
-
-
-
        }
   },
 
