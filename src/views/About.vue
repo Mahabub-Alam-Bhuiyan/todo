@@ -1,7 +1,7 @@
 <template>
   <div class="about">
    <div class="container">
-     <h3>Todos</h3>
+     <h3>Todos List</h3>
        <div class="row">
          <div class="col-sm-6">
            <div v-for="(todo,index) in todos" :key="index" class="todo-item row" :class="{'todo-item-done' : todo.done}">
